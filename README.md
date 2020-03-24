@@ -42,7 +42,7 @@ Adding twitter user with name `tproger` to our feed list (stored in database tab
 Deleting twitter user with name `tproger` from our feed list and database
 
 - `GET` /api/web/v1/twitter/feed
-Gets latest tweets from oll feeds list users
+Gets latest tweets from all feeds list users
 If user have protected account -> returns message that account not available
 
 
